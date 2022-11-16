@@ -2,6 +2,11 @@ Hello World!
 
 Data Scientist with 2 years of experience in data area currently working to a financial company in Brazil (GMT/UTC -03:00).
 
+For more details about my career background, please check out my Linkedin.
+
+![image](https://user-images.githubusercontent.com/73034020/202054592-e0684a6f-ec0c-482e-9244-607e46a77398.png)
+
+
 [![card](https://github-readme-stats.vercel.app/api?username=ViniciusKos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
