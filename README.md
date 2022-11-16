@@ -1,4 +1,4 @@
-Hello Wordl!
+Hello World!
 
 Data Scientist with 2 years of experience in data area currently working to a financial company in Brazil (GMT/UTC -03:00).
 
