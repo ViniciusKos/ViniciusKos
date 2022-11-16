@@ -29,7 +29,7 @@ Main Projects and Results:
 - Visual Studio Code, Git, and GitHub.  <br />
 - Feature selection and dimensionality reduction techniques.  <br />
 - Flask, and Python and Telegram API's.  <br />
--  Regression Algorithms:Linear Regressor, Linear Regressor Regularized, Random Forest, and XGBoost Regressor.  <br />
+- Regression Algorithms:Linear Regressor, Linear Regressor Regularized, Random Forest, and XGBoost Regressor.  <br />
 - Cloud Computing: Deploy on Google Cloud (SDK Shell, APP Engine)  <br />
 ### Business Impacts:
 - 36% Reduction of the average error rate of sales forecasts for the entire network.
