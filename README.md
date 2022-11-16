@@ -22,7 +22,7 @@ Main Skills:
 ![image](https://user-images.githubusercontent.com/73034020/202050708-0d4e8aa7-5fa7-4364-8bf8-c2e9e7c2b04e.png)
 ![image](https://user-images.githubusercontent.com/73034020/202051205-0711420a-ba90-46a0-a855-4862148bfd11.png)
 
-Main Projects and Results:
+# *Main Projects and Results:*
 
  # **Rossmann Stores Sales Forecast**  <br />
  Pharmaceutical Stores Sales Forecast
