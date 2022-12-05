@@ -24,8 +24,7 @@ Main Skills:
 
 # *Main Projects and Results:*
 
- # **Rossmann Stores Sales Forecast**  <br />
- Pharmaceutical Stores Sales Forecast
+ # [Rossmann Stores Sales Forecast](https://github.com/ViniciusKos/forecast_sales)
 
  ### Objective: <br />
 - To create a sales forecasting algorithm for 1115 stores, and make it available for 24/7 access via smartphone.
