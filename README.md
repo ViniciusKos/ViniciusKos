@@ -27,7 +27,7 @@ Main Skills:
  ## [Rossmann Stores Sales Forecast](https://github.com/ViniciusKos/forecast_sales)
 
  ### Objective:
-- To create a sales forecasting algorithm for 1115 stores, and make it available for 24/7 access via smartphone.
+To create a sales forecasting algorithm for 1115 stores, and make it available for 24/7 access via smartphone.
 
 ### Business Impacts:
 - 36% Reduction of the average error rate of sales forecasts for the entire network.
