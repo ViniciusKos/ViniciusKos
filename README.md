@@ -41,6 +41,7 @@ Main Skills:
 - After the 1st half of implementation, Rossmann's half-year net income increased by 1.9%.
 - The Animation above shows the sales forecast being called through a Telegram Bot
 
+![Animation3](https://user-images.githubusercontent.com/73034020/205716565-d5dcfe89-5368-4a57-b60f-7258e29ca7a9.gif)
 
 
 
