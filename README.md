@@ -35,7 +35,7 @@ Main Skills:
 - The Animation above shows the sales forecast being called through a Telegram Bot
 <img src="https://user-images.githubusercontent.com/73034020/205716565-d5dcfe89-5368-4a57-b60f-7258e29ca7a9.gif" width="500">
 
-## [purchase_propensity_predict](https://github.com/ViniciusKos/purchase_propensity_predict)
+## [Purchase Propensity Predict](https://github.com/ViniciusKos/purchase_propensity_predict)
 
 ### Objective:
 Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
