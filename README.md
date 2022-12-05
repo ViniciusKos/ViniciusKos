@@ -4,7 +4,7 @@ Data Scientist with 3 years of experience with data currently working to a finan
 
 For more details about my career background, please check out my Linkedin.
 
-![image](https://user-images.githubusercontent.com/73034020/202054592-e0684a6f-ec0c-482e-9244-607e46a77398.png)
+![image](https://user-images.githubusercontent.com/73034020/202054592-e0684a6f-ec0c-482e-9244-607e46a77398.png)(https://www.linkedin.com/in/viniciuskos/)
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=ViniciusKos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
