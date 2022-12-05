@@ -43,7 +43,7 @@ Main Skills:
 
 ![Animation3](https://user-images.githubusercontent.com/73034020/205716565-d5dcfe89-5368-4a57-b60f-7258e29ca7a9.gif)
 
-<img src="https://github.com/favicon.ico](https://user-images.githubusercontent.com/73034020/205716565-d5dcfe89-5368-4a57-b60f-7258e29ca7a9.gif" width="48">
+<img src="https://user-images.githubusercontent.com/73034020/205716565-d5dcfe89-5368-4a57-b60f-7258e29ca7a9.gif" width="48">
 
 
 
