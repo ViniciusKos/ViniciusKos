@@ -22,20 +22,29 @@ Main Skills:
 ![image](https://user-images.githubusercontent.com/73034020/202050708-0d4e8aa7-5fa7-4364-8bf8-c2e9e7c2b04e.png)
 ![image](https://user-images.githubusercontent.com/73034020/202051205-0711420a-ba90-46a0-a855-4862148bfd11.png)
 
-# *Main Projects and Results:*
+# Main Projects and Results:
 
  ## [Rossmann Stores Sales Forecast](https://github.com/ViniciusKos/forecast_sales)
 
- ### Objective: <br />
+ ### Objective:
 - To create a sales forecasting algorithm for 1115 stores, and make it available for 24/7 access via smartphone.
 
 ### Business Impacts:
 - 36% Reduction of the average error rate of sales forecasts for the entire network.
 - After the 1st half of implementation, Rossmann's half-year net income increased by 1.9%.
 - The Animation above shows the sales forecast being called through a Telegram Bot
-
 <img src="https://user-images.githubusercontent.com/73034020/205716565-d5dcfe89-5368-4a57-b60f-7258e29ca7a9.gif" width="500">
 
+## [purchase_propensity_predict](https://github.com/ViniciusKos/purchase_propensity_predict)
 
+### Objective:
+Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
+
+### Business Impacts:
+Sales insurance monthly increase of 109%.
+
+The Animation below shows a customer list being ordened by buying potential through a model call in Excel Sheets.
+
+<img src="https://user-images.githubusercontent.com/73034020/201436763-32984504-0aa9-43b2-8f17-56f6eb1bfb8f.gif" width="500">
 
 
