@@ -41,10 +41,26 @@ To create a sales forecasting algorithm for 1115 stores, and make it available f
 Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
 
 ### Business Impacts:
-Sales insurance monthly increase of 109%.
+- Sales insurance monthly increase of 109%.
 
 The Animation below shows a customer list being ordened by buying potential through a model call in Excel Sheets.
 
 <img src="https://user-images.githubusercontent.com/73034020/201436763-32984504-0aa9-43b2-8f17-56f6eb1bfb8f.gif" width="500">
+
+## [Customers Clusterization](https://github.com/ViniciusKos/insiders_clustering)
+
+### Objective:
+Through clusterization techniques, identify and group the most valuable customers for a loyalty program.
+
+### Business Impacts:
+- It was found a group of customers that are responsible for 65% of the company's profit share and it represents 30% of all customers.
+- Different marketing strategies can be done for each group.
+
+The image below shows the final dashboard which shows each cluster characteristics.
+
+![image](https://user-images.githubusercontent.com/73034020/220782047-35aea54a-570d-4c00-a5b2-5ca135dd2bf3.png)
+
+
+
 
 
