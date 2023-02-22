@@ -41,7 +41,7 @@ To create a sales forecasting algorithm for 1115 stores, and make it available f
 Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
 
 ### Business Impacts:
-- Sales insurance monthly increase of 109%.
+-  Insurance's monthly *profit increase of 109%*.
 
 The Animation below shows a customer list being ordened by buying potential through a model call in Excel Sheets.
 
