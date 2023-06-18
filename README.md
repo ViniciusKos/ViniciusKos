@@ -21,8 +21,8 @@ Main Skills:
 ![image](https://user-images.githubusercontent.com/73034020/202050685-3661bbfb-3fe8-44f8-9327-fc84ab127747.png)
 ![image](https://user-images.githubusercontent.com/73034020/202050708-0d4e8aa7-5fa7-4364-8bf8-c2e9e7c2b04e.png)
 ![image](https://user-images.githubusercontent.com/73034020/202051205-0711420a-ba90-46a0-a855-4862148bfd11.png)
-https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white
-https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+![image](https://github.com/ViniciusKos/ViniciusKos/assets/73034020/16699ce5-a059-40a9-b88d-d89dcf83506b)
+
 
 
 
