@@ -20,7 +20,6 @@ Main Skills:
 ![image](https://user-images.githubusercontent.com/73034020/202050874-ced3040f-6021-4b50-bbe0-2e5c0fd8e17f.png)
 ![image](https://user-images.githubusercontent.com/73034020/202050927-22ddcb55-9b1a-400f-b7e3-c3ce1e9e5e7c.png)
 ![image](https://user-images.githubusercontent.com/73034020/202050994-230401e7-b1e1-48f4-a67c-3cdd5da43ccd.png)
-![image](https://user-images.githubusercontent.com/73034020/202051205-0711420a-ba90-46a0-a855-4862148bfd11.png)
 
 
 
