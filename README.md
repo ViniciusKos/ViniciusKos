@@ -16,10 +16,13 @@ Main Skills:
 ![image](https://github.com/ViniciusKos/ViniciusKos/assets/73034020/16699ce5-a059-40a9-b88d-d89dcf83506b)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://github.com/ViniciusKos/ViniciusKos/assets/73034020/d517961e-07db-4155-ba6b-e5bee2338969)
+![image](https://github.com/ViniciusKos/ViniciusKos/assets/73034020/61df1ee2-0eb8-4474-a17f-e6183db01610)
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://user-images.githubusercontent.com/73034020/202050874-ced3040f-6021-4b50-bbe0-2e5c0fd8e17f.png)
 ![image](https://user-images.githubusercontent.com/73034020/202050927-22ddcb55-9b1a-400f-b7e3-c3ce1e9e5e7c.png)
 ![image](https://user-images.githubusercontent.com/73034020/202050994-230401e7-b1e1-48f4-a67c-3cdd5da43ccd.png)
+
+
 
 
 
