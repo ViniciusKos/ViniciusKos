@@ -1,8 +1,8 @@
-Hello World!!!
+Hello World!!
 
-Data Scientist with 4 years of experience with data currently working to a financial company in Brazil (GMT/UTC -03:00).
+Data Scientist with 4 years of experience with data currently working for a financial company in Brazil.
 
-For more details about my career background, please check out my Linkedin.
+For more details about my career background, please check out my LinkedIn.
 
 [![image](https://user-images.githubusercontent.com/73034020/202054592-e0684a6f-ec0c-482e-9244-607e46a77398.png)](https://www.linkedin.com/in/viniciuskos/)
 
