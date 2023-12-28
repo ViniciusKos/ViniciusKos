@@ -1,6 +1,6 @@
 Hello World!!!
 
-Data Scientist with 4 years of experience with data currently working for a financial company in Brazil.
+Professional specialized in core data science activities: from prototyping to deploying Machine Learning Models to optimize business KPIs,c urrently working at Banco BV, a Brazilian Banking Company.
 
 For more details about my career background, please check out my LinkedIn.
 
