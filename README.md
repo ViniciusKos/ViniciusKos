@@ -30,7 +30,7 @@ Main Skills:
 
 # Main Projects and Results:
 
- ## [Rossmann Stores Sales Forecast](https://github.com/ViniciusKos/forecast_sales)
+ ## [Rossmann Stores Sales Forecast - Click for more details](https://github.com/ViniciusKos/forecast_sales) 
 
  ### Objective:
 To create a sales forecasting algorithm for 1115 stores, and make it available for 24/7 access via smartphone.
@@ -41,7 +41,7 @@ To create a sales forecasting algorithm for 1115 stores, and make it available f
 - The Animation above shows the sales forecast being called through a Telegram Bot
 <img src="https://user-images.githubusercontent.com/73034020/205716565-d5dcfe89-5368-4a57-b60f-7258e29ca7a9.gif" width="500">
 
-## [Purchase Propensity Predict](https://github.com/ViniciusKos/purchase_propensity_predict)
+## [Purchase Propensity Predict - Click for more details](https://github.com/ViniciusKos/purchase_propensity_predict)
 
 ### Objective:
 Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
@@ -53,16 +53,16 @@ The Animation below shows a customer list being ordened by buying potential thro
 
 <img src="https://user-images.githubusercontent.com/73034020/201436763-32984504-0aa9-43b2-8f17-56f6eb1bfb8f.gif" width="500">
 
-## [Customers Clusterization](https://github.com/ViniciusKos/insiders_clustering)
+## [Customers Clusterization - Click for more details](https://github.com/ViniciusKos/insiders_clustering)
 
 ### Objective:
 Through clusterization techniques, identify and group the most valuable customers for a loyalty program.
 
 ### Business Impacts:
 - It was found a **group** of customers that are responsible for **65% of the company's profit share** and it **represents 30% of all customers**.
-- Different marketing strategies can be done for each group.
+- Different marketing strategies can be used for each group.
 
-The image below shows the final dashboard which shows each cluster characteristics.
+The image below shows the final dashboard which shows each cluster's characteristics.
 
 ![image](https://user-images.githubusercontent.com/73034020/220782047-35aea54a-570d-4c00-a5b2-5ca135dd2bf3.png)
 
