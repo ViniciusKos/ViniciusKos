@@ -1,9 +1,8 @@
 Hello World!
-
 I'm a professional specialized in core data science activities: from prototyping to deploying Machine Learning Models to optimize business KPIs,c urrently working at Banco BV, a Brazilian Banking Company.
 For more details about my career background, please check out my LinkedIn.
-[![image](https://user-images.githubusercontent.com/73034020/202054592-e0684a6f-ec0c-482e-9244-607e46a77398.png)](https://www.linkedin.com/in/viniciuskos/)
 
+[![image](https://user-images.githubusercontent.com/73034020/202054592-e0684a6f-ec0c-482e-9244-607e46a77398.png)](https://www.linkedin.com/in/viniciuskos/)
 
 Main Skills:
 
@@ -15,9 +14,6 @@ Main Skills:
 ![image](https://user-images.githubusercontent.com/73034020/202050874-ced3040f-6021-4b50-bbe0-2e5c0fd8e17f.png)
 ![image](https://user-images.githubusercontent.com/73034020/202050927-22ddcb55-9b1a-400f-b7e3-c3ce1e9e5e7c.png)
 ![image](https://user-images.githubusercontent.com/73034020/202050994-230401e7-b1e1-48f4-a67c-3cdd5da43ccd.png)
-
-
-
 
 
 
