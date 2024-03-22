@@ -1,5 +1,5 @@
 Hello World!
-I'm a professional specialized in core data science activities: from prototyping to deploying Machine Learning Models to optimize business KPIs,c urrently working at Banco BV, a Brazilian Banking Company.
+I'm a professional specialized in core data science activities: from prototyping to deploying Machine Learning Models to optimize business KPIs, currently working at Banco BV, a Brazilian Banking Company.
 For more details about my career background, please check out my LinkedIn.
 
 [![image](https://user-images.githubusercontent.com/73034020/202054592-e0684a6f-ec0c-482e-9244-607e46a77398.png)](https://www.linkedin.com/in/viniciuskos/)
